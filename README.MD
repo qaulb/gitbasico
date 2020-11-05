@@ -50,6 +50,7 @@ em ambos os casos o git tenta fazer o merge das alterações automaticamente.
 > Infelizmente, nem sempre é possível e causa conflitos. Resolva os conflitos manualmente exibido pelo git em seu editor preferido para fazer o merge destes conflitos.
 3 - Depois de alterar, você precisa marcá-los como merged com **(git add <arquivo>)** antes de fazer o merge das alterações, você pode também pré-visualizá-as usando **(git diff <branch origem> <branch destino>)**
 ---
+  
 ### Créditos de estudo:
 > Curso Udemy: https://www.udemy.com/course/git-e-github/<br>
 > FOLHA DE DICAS DE GIT: https://training.github.com/downloads/pt_BR/github-git-cheat-sheet.pdfv
