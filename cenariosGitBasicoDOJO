@@ -1,0 +1,28 @@
+Pré-Condições : 
+
+Clonar o Projeto em sua máquina e pegar a versão mais recente
+
+Cenário 1 : 
+
+Cada um Cria um documento 
+Adiciona ao repositorio 
+Sobe para o repositório
+
+Cenário 2 
+Atualizar a origin Local
+Cada Membro deve escrever no documento de outro criado gerando uma nova Branch com alterações
+Mudar para a Branch mãe
+Gerar o Merge
+Subir repositorio local para o remoto
+
+Cenário 3 
+
+Gerar Conflitos 
+
+Cenário 4: 
+Gerar Revert 
+
+Cenário 5 : 
+Gerar Reset
+
+
