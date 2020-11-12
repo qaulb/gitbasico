@@ -7,7 +7,7 @@ Criado para demostrar conhecimento em Git básico.
 ## Criando um novo repositório
 1 - Crie uma nova pasta, abra-a com o gitbash ou terminal escolhido e execute o comando **(git init)** para criar um novo repositório.
 ---
-## Obtendo um repositório clonando:
+## Obtendo um repositório clonando do GIT:
 1 - Crie uma cópia de trabalho em um repositório local executando o comando<br> **(*git clone /caminho/para/o/repositório*)**
 caminho do projeto no próprio Github.<br>
 Quando usar um servidor remoto, seu comando será: **(*git clone usuário@servidor:/caminho/para/o/repositório*)**
